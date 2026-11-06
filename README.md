@@ -1,42 +1,115 @@
-# 💫 About Me:
-🔭 I’m currently working on Varsity — a campus companion app.<br><br>👯 I’m looking to collaborate on AI/ML, Full-Stack Development, EdTech, and Civic Tech and Fun interactive projects.<br><br>🤝 I’m looking for help with scaling impactful projects, system design, and integrating AI into real-world applications.<br><br>🌱 I’m currently learning AI/ML, Data Structures & Algorithms, and advanced application development.<br><br>💬 Ask me about React Native, Flutter, JavaScript, Git/GitHub, UI/UX Design, and building products from scratch.<br><br>⚡ Fun fact: I represented Chhattisgarh at the Viksit Bharat Young Leaders Dialogue 2026 in New Delhi, presenting JanSevaOne, a civic-tech idea focused on citizen engagement and public services.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:164e63,100:0e7490&height=210&section=header&text=Kirtan%20Swamy&fontSize=56&fontColor=f8fafc&fontAlignY=36&desc=Engineering%20ideas%20into%20experiences%20that%20matter.&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Kirtan Swamy — engineering ideas into experiences that matter" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kirtanswamyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kirtan-swamy-55798138a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kirtanswamyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirtanswamy18@gmail.com) 
+<a href="https://github.com/kirtanswamy">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=ECE+Undergraduate+%40+SRMIST;Developer+%C2%B7+Builder+%C2%B7+Problem+Solver;Exploring+AI%2FML%2C+Civic+Tech+%26+EdTech;Turning+ideas+into+working+products" alt="Typing introduction" />
+</a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kirtanswamy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kirtanswamy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kirtanswamy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <a href="https://www.linkedin.com/in/kirtan-swamy-55798138a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/kirtanswamy"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:kirtanswamy18@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://instagram.com/kirtanswamyy"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kirtanswamy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kirtanswamy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=kirtanswamy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 A little about me
 
-<!--
-**kirtanswamy/kirtanswamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kirtan Kumar Swamy**, an Electronics & Communication Engineering undergraduate at **SRM Institute of Science and Technology, Chennai**. I enjoy working where engineering, design and real-world problems meet.
 
-Here are some ideas to get you started:
+I like taking an idea from a rough sketch to a working product — building interfaces, connecting systems, experimenting with AI/ML and making technology easier to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Building:** campus tools, interactive web experiences and civic-tech ideas.
+- 🌱 **Exploring:** AI/ML, full-stack development, product engineering and system design.
+- 🤝 **Interested in:** Civic Tech · EdTech · Developer Tools · Open Source.
+- 🧩 **Approach:** understand the problem, build thoughtfully, test, improve, repeat.
+- 🇮🇳 **Milestone:** represented Chhattisgarh at the *Viksit Bharat Young Leaders Dialogue 2026* in New Delhi, presenting **JanSeva One**, a civic-tech concept.
+
+---
+
+## 🚀 Things I'm building
+
+<div align="center">
+
+<a href="https://github.com/kirtanswamy/BUSHO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirtanswamy&repo=BUSHO&theme=transparent&hide_border=true&description_lines_count=2" alt="BUSHO repository card" />
+</a>
+<a href="https://github.com/kirtanswamy/ElectroLab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirtanswamy&repo=ElectroLab&theme=transparent&hide_border=true&description_lines_count=2" alt="ElectroLab repository card" />
+</a>
+<a href="https://github.com/kirtanswamy/chhutti-ke-baad">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirtanswamy&repo=chhutti-ke-baad&theme=transparent&hide_border=true&description_lines_count=2" alt="Chhutti Ke Baad repository card" />
+</a>
+<a href="https://github.com/aalindmukati/Varsity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aalindmukati&repo=Varsity&theme=transparent&hide_border=true&description_lines_count=2" alt="Varsity repository card" />
+</a>
+
+</div>
+
+| Project | What it explores |
+|:--|:--|
+| [**BUSHO**](https://github.com/kirtanswamy/BUSHO) | A civic-impact concept connecting citizens with government and community support services. |
+| [**ElectroLab**](https://github.com/kirtanswamy/ElectroLab) | An interactive electronics workbench and diode-circuit simulator built with React and TypeScript. |
+| [**Chhutti Ke Baad**](https://github.com/kirtanswamy/chhutti-ke-baad) | An interactive nostalgia room celebrating the after-school TV memories of 90s and 2000s India. |
+| [**Varsity**](https://github.com/aalindmukati/Varsity) | A campus companion experience for student essentials, academic resources and planning. |
+
+---
+
+## 🧰 Tech I work with
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" alt="JavaScript, TypeScript, Python, Java, C++ and C" />
+
+**Development**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind,nodejs" alt="React, Next.js, Flutter, HTML, CSS, Tailwind and Node.js" />
+
+**Data, tools & design**
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,git,github,figma,vscode,vercel" alt="Firebase, Supabase, MongoDB, Git, GitHub, Figma, VS Code and Vercel" />
+
+</div>
+
+I also enjoy UI/UX design, prototyping, video editing and exploring how AI can make useful products more accessible.
+
+---
+
+## 📊 GitHub, lately
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kirtanswamy&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&include_all_commits=true" alt="Kirtan's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtanswamy&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages" />
+  <br/>
+  <img width="72%" src="https://streak-stats.demolab.com?user=kirtanswamy&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+  <br/>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=kirtanswamy&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+</div>
+
+---
+
+## 🤝 Let's connect
+
+I'm always happy to meet people who enjoy building useful things, exchanging ideas or collaborating on meaningful projects.
+
+<div align="center">
+
+**"Stay curious. Build with purpose. Keep shipping."**
+
+<a href="mailto:kirtanswamy18@gmail.com">kirtanswamy18@gmail.com</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kirtanswamy&style=flat-square&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:164e63,100:0e7490&height=100&section=footer" width="100%" alt="" />
+</div>
